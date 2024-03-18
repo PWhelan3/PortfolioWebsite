@@ -78,8 +78,8 @@
     top: -128px;
     left: -10vw;
     border-radius: 764px;
-    background: rgba(25, 55, 109, 0.7);
-    filter: blur(100px);
+    background: rgba(3, 100, 37, 0.7);
+    filter: blur(150px);
     z-index: 0;
   }
 
@@ -92,8 +92,8 @@
     top: 246px;
     right: -25vw;
     border-radius: 764px;
-    background: rgba(25, 55, 109, 0.7);
-    filter: blur(100px);
+    background: rgba(22, 97, 82, 0.7);
+    filter: blur(150px);
     z-index: 0;
   }
 
@@ -104,5 +104,8 @@
   
     .content {
       align-items: center;
+    }
+    .description {
+        text-align: center;
     }
   }
