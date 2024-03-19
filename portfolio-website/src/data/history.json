@@ -1,28 +1,35 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
+      "role": "Student & Freelancer",
+      "organisation": "",
+      "startDate": "July, 2023",
       "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "experiences": [
+        "Self taught having completed multiple online certifications in the last year.",
+        "Interested in Frontend Development and Web Design.",
+        "Continuing to build my skillset and create useful engaging projects."
+      ],
       "imageSrc": "history/google.png"
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "role": "Duty Manager",
+      "organisation": "Cask Smugglers",
+      "startDate": "Sept, 2021",
+      "endDate": "May, 2023",
+      "experiences": [
+        "Managed a team and ensured the smooth operations of the Bar & Restaurant.",
+        "Designed and launched new area of venue and oversaw the smooth transition to get it ready for service."
+      ],
       "imageSrc": "history/microsoft.png"
     },
     {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
+      "role": "Software Development Work Experience",
+      "organisation": "SAP",
+      "startDate": "Nov, 2014",
+      "endDate": "Jan, 2015",
       "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
+        "Interviewed localisation team and built a working knowledge of the processes and fundamentals.",
+        "Audited the daily work and tasks of the team as they worked through their projects."
       ],
       "imageSrc": "history/netflix.png"
     }
