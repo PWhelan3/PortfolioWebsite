@@ -10,7 +10,7 @@ export const Hero = () => {
             <p className={styles.description}>I am a self taught Frontend Developer and Art & Design Graduate!</p>
             <a href="mailto:pwhelanstudio@gmail.com" className={styles.contactBtn}>Contact Me!</a>
         </div>
-        <img src={getImageUrl("123.JPG")} alt="Hero Of Me" className={styles.heroImg}/>
+        <img src={getImageUrl("hero/123.JPG")} alt="Hero Of Me" className={styles.heroImg}/>
         <div className={styles.topBlur}></div>
         <div className={styles.bottomBlur}></div>
     </section>

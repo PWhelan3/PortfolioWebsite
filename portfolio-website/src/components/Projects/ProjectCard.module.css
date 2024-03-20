@@ -4,8 +4,8 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
-  box-shadow: 0 16px 14px 0 #04152d;
+  background: linear-gradient(180deg, #c9b47f 0%, #2c1e0d 100%);
+  box-shadow: 0 16px 14px 0 #140c04;
   padding: 18px 24px;
   max-width: 345px;
 }
@@ -39,8 +39,9 @@
   font-size: 25px;
   font-weight: 400;
   border-radius: 100px;
-  background: var(--color-dark);
+  background: transparent;
   padding: 2px 22px;
+  border: 1px solid white;
 }
 
 .links {
