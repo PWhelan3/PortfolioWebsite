@@ -32,10 +32,16 @@
   gap: 26px;
 }
 
+.link:hover {
+  transition: ease-in-out 0.3s;
+  transform: scale(1.1);
+}
+
 .link {
   display: flex;
   align-items: center;
   gap: 25px;
+  transition: ease-in-out 0.3s;
 }
 
 .link a {

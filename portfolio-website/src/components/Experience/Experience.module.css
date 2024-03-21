@@ -36,6 +36,11 @@
   gap: 11px;
 }
 
+.skill:hover {
+  transition: ease-in-out 0.3s;
+  transform: scale(1.1);
+}
+
 .skillImageContainer {
   background-color: var(--color-secondary);
   border-radius: 100%;
@@ -68,10 +73,16 @@
   flex-direction: row;
   align-items: center;
   gap: 17px;
-  background: #19376d;
-  background: linear-gradient(90deg, #c9b47f 0%, #2c1e0d 100%);
+  background: #0b2f12;
+  background: linear-gradient(90deg, #0b2f12 0%, #020702 100%);
   border-radius: 10px;
   padding: 24px;
+  transition: ease-in-out 0.3s;
+}
+
+.historyItem:hover {
+  transition: ease-in-out 0.3s;
+  transform: scale(1.1);
 }
 
 .historyItem img {
