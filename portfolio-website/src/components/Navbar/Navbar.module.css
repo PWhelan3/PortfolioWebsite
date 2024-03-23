@@ -36,11 +36,15 @@
   font-size: 25px;
   color: var(--color-text);
   text-decoration: none;
+}
+
+.menuItems li:hover {
+  transform: scale(1.25);
   transition: ease-in-out .3s;
 }
 
-.menuItems a:hover {
-  transform: scale(1.1);
+.menuItems li {
+  transition: ease-in-out .3s;
 }
 
 @media screen and (max-width: 830px) {

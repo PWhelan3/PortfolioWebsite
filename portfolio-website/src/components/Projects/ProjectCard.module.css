@@ -13,6 +13,7 @@
 .container:hover {
   transition: ease-in-out 0.3s;
   transform: scale(1.1);
+  background: linear-gradient(180deg, #10421a 0%, #020702 100%);
 }
 
 .image {
