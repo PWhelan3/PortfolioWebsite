@@ -51,7 +51,7 @@
 .contactBtn:hover {
     transform: scale(1.2);
     transition: ease .3s;
-    background-color: #123217;
+    background-color: var(--color-ultradark);
 }
 
 .heroImg {
@@ -85,7 +85,7 @@
     top: -128px;
     left: -10vw;
     border-radius: 764px;
-    background: rgba(3, 100, 37, 0.7);
+    background: rgba(58, 90, 64, 0.7);
     filter: blur(150px);
     z-index: 0;
   }
@@ -99,7 +99,7 @@
     top: 246px;
     right: -25vw;
     border-radius: 764px;
-    background: rgba(22, 97, 82, 0.7);
+    background: rgba(163, 177, 138, 0.7);
     filter: blur(150px);
     z-index: 0;
   }
