@@ -80,7 +80,7 @@
   }
 
   .aboutImage {
-    display: none;
+    display: block;
   }
 
   .aboutItems {
