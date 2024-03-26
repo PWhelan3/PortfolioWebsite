@@ -28,7 +28,7 @@
 .aboutImage {
   width: 35%;
   padding-right: 60px;
-  border-radius: 600px;
+  border-radius: 3000px;
 }
 
 .aboutItems {
@@ -68,7 +68,7 @@
   font-size: 25px;
 }
 
-@media screen and (max-width: 830px) {
+@media screen and (max-width: 1000px) {
   .container {
     background-color: transparent;
     padding-left: 0;
@@ -81,6 +81,7 @@
 
   .aboutImage {
     display: block;
+    width: 100%;
   }
 
   .aboutItems {
