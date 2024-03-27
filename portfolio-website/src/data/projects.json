@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Christopher Whelan Art",
+      "imageSrc": "projects/Chris.png",
+      "description": "This was my first project to create a website showcasing an artist's work.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://www.christopherwhelanart.com",
+      "source": "https://www.github.co/PWhelan3"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
+      "title": "Capstone Project",
+      "imageSrc": "projects/LittleLemon.png",
+      "description": "This was my capstone project for my Meta frontend development professional certificate.",
+      "skills": ["React", "HTML", "CSS", "Javascript"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://www.github.com/PWhelan3"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
+      "title": "Frustration INC",
+      "imageSrc": "projects/Frustrate.png",
+      "description": "With this project I tried to build the antithesis of a useful and engaging website.",
+      "skills": ["React", "Vite", "HTML","CSS","Javascript"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://www.github.com/PWhelan3"
     }
   ]
