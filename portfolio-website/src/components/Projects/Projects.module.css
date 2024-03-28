@@ -3,8 +3,8 @@
 .container {
   margin-top: 76px;
   color: var(--color-text);
-  margin-left: 10%;
-  margin-right: 10%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .title {
@@ -21,6 +21,6 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 65px;
+  gap: 5vw;
   width: 100%;
 }

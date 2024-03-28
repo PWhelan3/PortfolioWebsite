@@ -3,12 +3,13 @@
 .container {
   display: flex;
   flex-direction: column;
-  border-radius: 10px;
+  border-radius: 5px;
   background: linear-gradient(180deg, #0b2f12 0%, #020702 100%);
   box-shadow: 0 16px 14px 0 #030903;
-  padding: 25px 24px;
-  max-width: 345px;
+  padding: 25px 25px;
   transition: ease-out 0.3s;
+  width: 400px;
+  height: 600px;
 }
 .container:hover {
   transition: ease-in-out 0.3s;
@@ -22,7 +23,7 @@
 
 .title {
   font-size: 25px;
-  font-weight: 700;
+  font-weight: 1000;
 }
 
 .description {
