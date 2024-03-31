@@ -1,8 +1,13 @@
 @import "../../vars.css";
 
 .container {
-  margin-top: 76px;
   color: var(--color-text);
+  position: relative;
+  background-color: rgba(12, 12, 12, 0.6);
+  border-radius: 15px;
+  padding: 73px;
+  margin-top: 129px;
+  z-index: 1;
   margin-left: 5%;
   margin-right: 5%;
 }
@@ -21,6 +26,6 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  gap: 5vw;
+  gap: 2.5vw;
   width: 100%;
 }
