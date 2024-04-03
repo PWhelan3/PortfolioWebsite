@@ -96,7 +96,8 @@
 .historyItem:hover {
   transition: ease-in-out 0.3s;
   transform: scale(1.075);
-  background: linear-gradient(90deg, #10431a 0%, #020702 100%);
+  background: linear-gradient(90deg, #ffffff 0%, #3f3f3f 100%);
+  color: black;
 }
 
 .historyItem img {
